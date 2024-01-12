@@ -23,18 +23,16 @@
 
 * Additional features:
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/810f74b8-4f6d-4523-8280-0164152202c3)
-
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/13d6991a-9e46-4a48-9a29-e0b131d0c48f)
 
 
+
 ### OPEN SOURCE DEPENDENCY CHECK HTML Report
-
-https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/blob/main/dependency-check-report.html
-
+* https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/blob/main/dependency-check-report.html
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/8e831193-597d-4fd7-b4f0-221dd0e5c0eb)
 
-### VET cli report
 
+### VET cli report
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/dbc531c7-36b8-4287-9f72-cd45c3308195)
 
 
