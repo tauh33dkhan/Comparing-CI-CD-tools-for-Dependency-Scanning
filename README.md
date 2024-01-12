@@ -36,7 +36,7 @@ Using Snyk with gitlab https://docs.snyk.io/integrate-with-snyk/git-repositories
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/dbc531c7-36b8-4287-9f72-cd45c3308195)
 
 
-OWASP Dependency check, VET and gemnasium can be used open MR but due to lack of complete documentation it is causing problem.
+OWASP Dependency check, VET and gemnasium can be used to open MR but due to lack of complete documentation it is causing problem.
 
 
 
