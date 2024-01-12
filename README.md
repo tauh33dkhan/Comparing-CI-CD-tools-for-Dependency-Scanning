@@ -25,7 +25,7 @@
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/810f74b8-4f6d-4523-8280-0164152202c3)
 ![image](https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/assets/43419559/13d6991a-9e46-4a48-9a29-e0b131d0c48f)
 
-
+Using Snyk with gitlab https://docs.snyk.io/integrate-with-snyk/git-repositories-scms-integrations-with-snyk/snyk-gitlab-integration
 
 ### OPEN SOURCE DEPENDENCY CHECK HTML Report
 * https://github.com/tauh33dkhan/Comparing-CI-CD-tools-for-Dependency-Scanning/blob/main/dependency-check-report.html
